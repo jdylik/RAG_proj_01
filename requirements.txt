@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pytest
+requests
+
+# Local RAG deps
+sentence-transformers
+faiss-cpu
+
+openai>=1.30.0

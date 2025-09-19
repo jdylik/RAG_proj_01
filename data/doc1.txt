@@ -1,0 +1,1 @@
+RAG stands for Retrieval-Augmented Generation. It uses a retriever to fetch relevant context and a generator (LLM) to produce grounded answers.

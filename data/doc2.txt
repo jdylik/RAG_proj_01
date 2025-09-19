@@ -1,0 +1,1 @@
+FAISS is a library for efficient similarity search. It supports various indexes like IndexFlatIP and HNSW. The all-MiniLM-L6-v2 model is a popular small embedding model.

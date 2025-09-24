@@ -1,7 +1,7 @@
 name: Build & Push to ACR
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 env:
   IMAGE: ${{ secrets.ACR_LOGIN_SERVER }}/rag-api

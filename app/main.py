@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from app.schemas import Query
 from app.rag import generate
+from app.vector_local import faiss_search
 
 app = FastAPI(title="Local RAG API")
 

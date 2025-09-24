@@ -1,0 +1,6 @@
+services:
+  mlragazure:
+    image: mlragazure
+    build:
+      context: .
+      dockerfile: ./Dockerfile
